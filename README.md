@@ -1,6 +1,6 @@
-# Used Car Price Predictor
+# Car Price Predictor
 
-An end-to-end Machine Learning project that predicts the selling price of a used car based on real-world features like brand, year, mileage, fuel type, engine specs, and more — powered by **XGBoost** and deployed as an interactive **Streamlit** web app.
+An end-to-end Machine Learning project that predicts the selling price of a  car based on real-world features like brand, year, mileage, fuel type, engine specs, and more — powered by **XGBoost** and deployed as an interactive **Streamlit** web app.
 
 ---
 
